@@ -1,0 +1,50 @@
+/***************
+	Global 
+***************/
+body {
+	background: cornflowerblue;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	line-height: 32px;
+}
+
+header {
+		font-family: 'Raleway', sans-serif;
+		font-weight: bold;
+		font-size: 36px;
+
+}
+
+h3 {
+	font-family: 'Raleway', sans-serif;
+	margin-left: -8px;
+}
+
+h3 + p {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+p > a {
+	color: rgb(13, 202, 250);
+	border-bottom: 1px solid #fff;
+	text-decoration: none;
+}
+
+
+li {
+  list-style: none;
+  float: left;
+  margin: 0 4px 0 4px;
+}
+
+
+}
+
+
+
+
+
